@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line1 and line 3
+=======
+line1 and 2
+>>>>>>> Bugfix
